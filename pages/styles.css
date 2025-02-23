@@ -1,0 +1,23 @@
+/* styles.css */
+body {
+    background: linear-gradient(to right, #4e342e, #3e2723); /* Tons de marrom sofisticado */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Georgia', serif; /* Fonte elegante */
+  }
+  
+  h1 {
+    color: #d7b58d; /* Dourado suave */
+    font-size: 3rem;
+    font-weight: bold;
+    padding: 20px;
+    border-radius: 10px;
+    background: #5d4037; /* Marrom mais escuro */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+    border: 2px solid #d7b58d; /* Borda dourada */
+    text-align: center;
+  }
+  
